@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+table{
+    margin:auto;
+    height: 500px;
+    width:500px;
+}
+td{
+    border-radius:25px;
+    border:2px solid black;
+    background-Color: grey;
+}
